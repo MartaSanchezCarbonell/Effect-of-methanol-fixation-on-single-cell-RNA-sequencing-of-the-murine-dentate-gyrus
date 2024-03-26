@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Scripts to analyse the effect of methanol fixation on
+  single cell RNA sequencing of the murine dentate gyrus
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Marta
+    family-names: Sánchez-Carbonell
+    email: sanchezcarbonellmarta@gmail.com
+    affiliation: University Hospital Jena
+    orcid: 'https://orcid.org/0000-0003-4720-8688'
+identifiers:
+  - type: doi
+    value: 10.3389/fnmol.2023.1223798
+    description: Article
+repository-code: >-
+  https://github.com/MartaSanchezCarbonell/Effect-of-methanol-fixation-on-single-cell-RNA-sequencing-of-the-murine-dentate-gyrus
+abstract: >-
+  Code to analyse the effect of methanol fixation on
+  scRNA-seq samples of adult mice brain.
+commit: 2b47ce1
+date-released: '2024-03-26'
